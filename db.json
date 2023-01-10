@@ -1,78 +1,18 @@
 {
-  "cars": [
+  "dogs": [
     {
       "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
+      "name": "Cherry",
+      "age": 2,
+      "place": "Visakhapatnam",
+      "gender": "Male"
     },
-    {
-      "id": 2,
-      "brand": "Tata",
-      "type": "AMT",
-      "year": 2017,
-      "kms": 8000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 800000
-    },
-    {
-      "id": 3,
-      "brand": "Kia",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 8000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 600000
-    },
-    {
-      "id": 4,
-      "brand": "Kia",
-      "type": "AMT",
-      "year": 2017,
-      "kms": 9000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 400000
-    },
-    {
-      "id": 5,
-      "brand": "Mg",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 3000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 300000
-    },
-    {
-      "id": 6,
-      "brand": "Mg",
-      "type": "AMT",
-      "year": 2017,
-      "kms": 1000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 1800000
-    }
-  ],
-  "wishlisted_cars": [
     {
       "id": 1,
-      "brand": "Tata",
-      "year": 2019,
-      "type": "Manual",
-      "kms": 10000,
-      "Description": "Tata Altroz with all original documents",
-      "Price": 500000
-    },
-    {
-      "id": 2,
-      "brand": "Mg",
-      "type": "AMT",
-      "year": 2017,
-      "kms": 1000,
-      "Description": "Tata Nexon with all original documents",
-      "Price": 1800000
+      "name": "Tommy",
+      "age": 3,
+      "place": "Banglore",
+      "gender": "Female"
     }
   ]
 }
